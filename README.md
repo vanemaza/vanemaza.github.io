@@ -7,5 +7,8 @@
 
 [Exploratory Analysis of flights in America 2013:](https://vanemaza.github.io/html/Exploratory_Analysis_Flights2013.html) In this HTML file, you will find an exploratory analysis in R of a comprehensive database on flights in America. The primary objective is to explore the data, providing an insightful introduction to the types of analyses that can be conducted using this dataset.
 
+[Decision tree:](code/decisiontree.ipynb) The current model predicts whether customers will recommend comming to the mall based on their feedback. By analyzing customer responses, the model identifies key factors influencing recommendations, allowing businesses to: **Predict Customer Recommendations, Enhance Marketing Strategie and Improve Service Quality**
+
+
 
 
